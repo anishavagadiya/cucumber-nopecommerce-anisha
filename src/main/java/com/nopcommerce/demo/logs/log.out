@@ -1,0 +1,110 @@
+2022-12-20 11:12:980 INFO  HomePage :48 - Clicking on login link Log in<br>
+2022-12-20 11:12:834 INFO  LoginPage :43 - Getting welcome text Welcome, Please Sign In!<br>
+2022-12-20 11:12:998 INFO  HomePage :59 - Clicking on register link Register<br>
+2022-12-20 11:12:536 INFO  HomePage :48 - Clicking on login link Log in<br>
+2022-12-20 11:12:393 INFO  LoginPage :49 - Enter email abcd123@gmail.com to email field <br>
+2022-12-20 11:12:471 INFO  LoginPage :54 - Enter password xyz123 to password field <br>
+2022-12-20 11:12:826 INFO  LoginPage :59 - Clicking on Login Button <br>
+2022-12-20 11:12:874 INFO  LoginPage :64 - Getting error message : Login was unsuccessful. Please correct the errors and try again.
+No customer account found<br>
+2022-12-20 11:12:126 INFO  HomePage :48 - Clicking on login link Log in<br>
+2022-12-20 11:12:660 INFO  LoginPage :49 - Enter email xyz123@gmail.com to email field <br>
+2022-12-20 11:12:720 INFO  LoginPage :54 - Enter password abc123 to password field <br>
+2022-12-20 11:12:12 INFO  LoginPage :59 - Clicking on Login Button <br>
+2022-12-20 11:12:57 INFO  LoginPage :64 - Getting error message : Login was unsuccessful. Please correct the errors and try again.
+No customer account found<br>
+2022-12-20 11:12:860 INFO  HomePage :48 - Clicking on login link Log in<br>
+2022-12-20 11:12:293 INFO  LoginPage :49 - Enter email adfafasd@gmail.com to email field <br>
+2022-12-20 11:12:368 INFO  LoginPage :54 - Enter password xyz123 to password field <br>
+2022-12-20 11:12:723 INFO  LoginPage :59 - Clicking on Login Button <br>
+2022-12-20 11:12:768 INFO  LoginPage :64 - Getting error message : Login was unsuccessful. Please correct the errors and try again.
+No customer account found<br>
+2022-12-20 11:12:363 INFO  HomePage :59 - Clicking on register link Register<br>
+2022-12-20 11:12:757 INFO  RegisterPage :129 - Click on 'REGISTER' button<br>
+2022-12-20 11:12:926 INFO  HomePage :59 - Clicking on register link Register<br>
+2022-12-20 11:12:799 INFO  RegisterPage :129 - Click on 'REGISTER' button<br>
+2022-12-20 11:12:205 INFO  HomePage :59 - Clicking on register link Register<br>
+2022-12-20 11:12:973 INFO  RegisterPage :129 - Click on 'REGISTER' button<br>
+2022-12-20 11:12:949 INFO  HomePage :59 - Clicking on register link Register<br>
+2022-12-20 11:12:139 INFO  RegisterPage :129 - Click on 'REGISTER' button<br>
+2022-12-20 11:12:348 INFO  HomePage :59 - Clicking on register link Register<br>
+2022-12-20 11:12:710 INFO  RegisterPage :129 - Click on 'REGISTER' button<br>
+2022-12-20 11:12:578 INFO  HomePage :89 - Click on 'Computers' tab <br>
+2022-12-20 11:12:434 INFO  ComputerPage :33 - Get pageTitle text : Computers<br>
+2022-12-20 11:12:683 INFO  HomePage :89 - Click on 'Computers' tab <br>
+2022-12-20 11:12:546 INFO  ComputerPage :40 - Click on 'Desktops' link <br>
+2022-12-20 11:12:927 INFO  ComputerPage :33 - Get pageTitle text : Desktops<br>
+2022-12-20 11:12:259 INFO  HomePage :89 - Click on 'Computers' tab <br>
+2022-12-20 11:12:129 INFO  ComputerPage :40 - Click on 'Desktops' link <br>
+2022-12-20 11:12:951 INFO  DesktopsPage :59 - Click on product 'Build your own computer' : Build your own computer<br>
+2022-12-20 11:12:390 INFO  BuildYourOwnComputerPage :65 - Select processor '2.2 GHz Intel Pentium Dual-Core E2200'<br>
+2022-12-20 11:12:483 INFO  BuildYourOwnComputerPage :70 - Select RAM '2 GB'<br>
+2022-12-20 11:12:539 INFO  BuildYourOwnComputerPage :77 - Select HDD '320 GB'<br>
+2022-12-20 11:12:598 INFO  BuildYourOwnComputerPage :87 - Select HDD 'Vista Home [+$50.00]'<br>
+2022-12-20 11:12:660 INFO  BuildYourOwnComputerPage :97 - Select Software '[[ChromeDriver: chrome on WINDOWS (a04cd52035333bbc493c5c6f2d7d44ca)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'<br>
+2022-12-20 11:12:701 INFO  BuildYourOwnComputerPage :105 - Click on 'ADD TO CART' Button<br>
+2022-12-20 11:12:979 INFO  BuildYourOwnComputerPage :110 - Get productAdded Message : The product has been added to your shopping cart<br>
+2022-12-20 11:12:863 INFO  HomePage :89 - Click on 'Computers' tab <br>
+2022-12-20 11:12:330 INFO  ComputerPage :40 - Click on 'Desktops' link <br>
+2022-12-20 11:12:788 INFO  DesktopsPage :59 - Click on product 'Build your own computer' : Build your own computer<br>
+2022-12-20 11:12:538 INFO  BuildYourOwnComputerPage :65 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]'<br>
+2022-12-20 11:12:618 INFO  BuildYourOwnComputerPage :70 - Select RAM '4GB [+$20.00]'<br>
+2022-12-20 11:12:695 INFO  BuildYourOwnComputerPage :77 - Select HDD '400 GB [+$100.00]'<br>
+2022-12-20 11:12:765 INFO  BuildYourOwnComputerPage :87 - Select HDD 'Vista Premium [+$60.00]'<br>
+2022-12-20 11:12:844 INFO  BuildYourOwnComputerPage :97 - Select Software '[[ChromeDriver: chrome on WINDOWS (c251eee3324cd2b9c144488ef708b4ab)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'<br>
+2022-12-20 11:12:890 INFO  BuildYourOwnComputerPage :105 - Click on 'ADD TO CART' Button<br>
+2022-12-20 11:12:552 INFO  BuildYourOwnComputerPage :110 - Get productAdded Message : The product has been added to your shopping cart<br>
+2022-12-20 11:12:645 INFO  HomePage :89 - Click on 'Computers' tab <br>
+2022-12-20 11:12:66 INFO  ComputerPage :40 - Click on 'Desktops' link <br>
+2022-12-20 11:12:448 INFO  DesktopsPage :59 - Click on product 'Build your own computer' : Build your own computer<br>
+2022-12-20 11:12:209 INFO  BuildYourOwnComputerPage :65 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]'<br>
+2022-12-20 11:12:299 INFO  BuildYourOwnComputerPage :70 - Select RAM '8GB [+$60.00]'<br>
+2022-12-20 11:12:368 INFO  BuildYourOwnComputerPage :77 - Select HDD '320 GB'<br>
+2022-12-20 11:12:433 INFO  BuildYourOwnComputerPage :87 - Select HDD 'Vista Home [+$50.00]'<br>
+2022-12-20 11:12:529 INFO  BuildYourOwnComputerPage :97 - Select Software '[[ChromeDriver: chrome on WINDOWS (81a8d1ec621c1f5c2ed9d3b1df8065ba)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'<br>
+2022-12-20 11:12:592 INFO  BuildYourOwnComputerPage :105 - Click on 'ADD TO CART' Button<br>
+2022-12-20 11:12:261 INFO  BuildYourOwnComputerPage :110 - Get productAdded Message : The product has been added to your shopping cart<br>
+2022-12-20 11:12:259 INFO  HomePage :48 - Clicking on login link Log in<br>
+2022-12-20 11:12:639 INFO  LoginPage :43 - Getting welcome text Welcome, Please Sign In!<br>
+2022-12-20 11:12:106 INFO  HomePage :48 - Clicking on login link Log in<br>
+2022-12-20 11:12:529 INFO  LoginPage :49 - Enter email abcd123@gmail.com to email field <br>
+2022-12-20 11:12:598 INFO  LoginPage :54 - Enter password xyz123 to password field <br>
+2022-12-20 11:12:873 INFO  LoginPage :59 - Clicking on Login Button <br>
+2022-12-20 11:12:914 INFO  LoginPage :64 - Getting error message : Login was unsuccessful. Please correct the errors and try again.
+No customer account found<br>
+2022-12-20 11:12:956 INFO  HomePage :48 - Clicking on login link Log in<br>
+2022-12-20 11:12:365 INFO  LoginPage :49 - Enter email xyz123@gmail.com to email field <br>
+2022-12-20 11:12:431 INFO  LoginPage :54 - Enter password abc123 to password field <br>
+2022-12-20 11:12:711 INFO  LoginPage :59 - Clicking on Login Button <br>
+2022-12-20 11:12:749 INFO  LoginPage :64 - Getting error message : Login was unsuccessful. Please correct the errors and try again.
+No customer account found<br>
+2022-12-20 11:12:911 INFO  HomePage :48 - Clicking on login link Log in<br>
+2022-12-20 11:12:764 INFO  LoginPage :49 - Enter email adfafasd@gmail.com to email field <br>
+2022-12-20 11:12:823 INFO  LoginPage :54 - Enter password xyz123 to password field <br>
+2022-12-20 11:12:122 INFO  LoginPage :59 - Clicking on Login Button <br>
+2022-12-20 11:12:162 INFO  LoginPage :64 - Getting error message : Login was unsuccessful. Please correct the errors and try again.
+No customer account found<br>
+2022-12-20 11:12:493 INFO  HomePage :48 - Clicking on login link Log in<br>
+2022-12-20 11:12:381 INFO  LoginPage :49 - Enter email primeeight@gmail.com to email field <br>
+2022-12-20 11:12:441 INFO  LoginPage :54 - Enter password abc123 to password field <br>
+2022-12-20 11:12:716 INFO  LoginPage :59 - Clicking on Login Button <br>
+2022-12-20 11:12:221 INFO  HomePage :48 - Clicking on login link Log in<br>
+2022-12-20 11:12:90 INFO  LoginPage :49 - Enter email primeeight@gmail.com to email field <br>
+2022-12-20 11:12:165 INFO  LoginPage :54 - Enter password abc123 to password field <br>
+2022-12-20 11:12:899 INFO  LoginPage :59 - Clicking on Login Button <br>
+2022-12-20 11:12:946 INFO  HomePage :54 - Checking is loginLink displayed : Log in<br>
+2022-12-20 11:12:652 INFO  HomePage :59 - Clicking on register link Register<br>
+2022-12-20 11:12:802 INFO  HomePage :59 - Clicking on register link Register<br>
+2022-12-20 11:12:589 INFO  RegisterPage :129 - Click on 'REGISTER' button<br>
+2022-12-20 11:12:539 INFO  HomePage :59 - Clicking on register link Register<br>
+2022-12-20 11:12:342 INFO  RegisterPage :129 - Click on 'REGISTER' button<br>
+2022-12-20 11:12:791 INFO  HomePage :59 - Clicking on register link Register<br>
+2022-12-20 11:12:585 INFO  RegisterPage :129 - Click on 'REGISTER' button<br>
+2022-12-20 11:12:401 INFO  HomePage :59 - Clicking on register link Register<br>
+2022-12-20 11:12:863 INFO  RegisterPage :129 - Click on 'REGISTER' button<br>
+2022-12-20 11:12:757 INFO  HomePage :59 - Clicking on register link Register<br>
+2022-12-20 11:12:543 INFO  RegisterPage :129 - Click on 'REGISTER' button<br>
+2022-12-20 11:12:721 INFO  HomePage :59 - Clicking on register link Register<br>
+2022-12-20 11:12:627 INFO  RegisterPage :89 - Select 'Female' radio button<br>
+2022-12-20 11:12:725 INFO  RegisterPage :98 - Enter Firstname : 'Anna' to firstName field<br>
+2022-12-20 11:12:797 INFO  RegisterPage :103 - Enter Lastname : 'Smith' to lastName field<br>
